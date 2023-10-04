@@ -7,14 +7,11 @@
             </div>
             <div class="col-lg-6 text-center text-lg-right">
                 <div class="d-inline-flex align-items-center">
-                    <a class="text-dark px-2" href="https://www.facebook.com/tumin1404">
+                    <a class="text-dark px-2" href="https://www.facebook.com/huyvu1439/">
                         <i class="fab fa-facebook-f"></i>
                     </a>
-                    <a class="text-dark px-2" href="https://www.instagram.com/tran_tu_1404/">
+                    <a class="text-dark px-2" href="https://www.instagram.com/hello.huyvu/">
                         <i class="fab fa-instagram"></i>
-                    </a>
-                    <a class="text-dark pl-2" href="https://www.youtube.com/channel/UCKK8ZFf3S-IshwmYmes6pyQ">
-                        <i class="fab fa-youtube"></i>
                     </a>
                 </div>
             </div>

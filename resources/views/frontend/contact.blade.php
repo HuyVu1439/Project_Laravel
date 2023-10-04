@@ -124,9 +124,9 @@
                     <p>Ở Min Fashion, chúng tôi luôn muốn mang lại cho khách hàng những sản phẩm thời thượng nhất, đẳng cấp nhất cùng với đó là giá thành phù hợp nhất.</p>
                     <div class="d-flex flex-column mb-3">
                         <h5 class="font-weight-semi-bold mb-3">Địa chỉ:</h5>
-                        <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>Trung Hưng, Yên Mỹ, Hưng Yên</p>
-                        <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>minfashion@gmail.com</p>
-                        <p class="mb-2"><i class="fa fa-phone-alt text-primary mr-3"></i>0372082758</p>
+                        <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>TP HCM, Việt Nam</p>
+                        <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>huyvu1439@gmail.com</p>
+                        <p class="mb-2"><i class="fa fa-phone-alt text-primary mr-3"></i>0328875121</p>
                     </div>
                 </div>
             </div>

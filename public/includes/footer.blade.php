@@ -4,7 +4,7 @@
                 <a href="/" class="text-decoration-none">
                     <img src="/frontend/img/logo/minfashion2.png" alt="" style="height:85px;width:200px">
                 </a>
-                <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>123 Street, Hưng Yên, VIỆT NAM</p>
+                <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>123 Street,TP HCM, VIỆT NAM</p>
                 <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>huyvu1439@gmail.com</p>
                 <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>0328875121</p>
             </div>
